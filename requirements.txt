@@ -1,0 +1,12 @@
+pytest
+pytest-cov
+pylint
+black
+ipython
+numpy
+pandas 
+sklearn 
+matplotlib
+seabor
+sklearn
+prophet
