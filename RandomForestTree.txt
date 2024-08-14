@@ -1,0 +1,51 @@
+A. 
+Ensemble Learning :
+Sum of the many ml model to one model  [this model are diffrent]
+    m1(desicison tree) + m2(linear) + m3(logistic)
+
+or 
+
+Sum of the many ml model to one model [this model are same but diffrent data]
+    m1(data1) + m2(data2) +m3(data3)    "this ml model(linear) are same"
+
+
+From this the majority count will be applyied : {3-> 0 , 2 -> 1} so the value will predicted as 0 
+
+
+
+B.
+Types of Ensemble Learning -> 
+    1. Voting 
+    2. Bagging  -> Random Forest
+    3. Boosting  -> Adaboost , Gradient Boosting , XgBoost 
+    4. stacking
+
+
+Note : If the it is classification then it will voting count and the regression is there then the mean will be calculated  
+
+🧑‍💻 Voting : Base models are diffrent from each other. 
+
+                    data
+            |----------|----------|     
+           SVM        LOR         DT
+            \          |          /
+                      KNN       
+
+
+🧑‍💻 Stacking : Same thing as above one but the major changes """ Extra weight is given to the diffrent model """.
+
+🧑‍💻 Bagging : Boostrapped Aggregation 
+
+                     Data 
+            /          |           \
+            D1        D2          D3
+            |----------|----------|     
+           SVM        SVM         SVM
+
+
+Generally the ML model are desicison tree and that makes up the Random Forest 
+
+🧑‍💻 Boosting trains multiple SVM models sequentially, with each model focusing on correcting the errors of the previous models.
+
+Data -> SVM -> SVM -> SVM -> Output
+
