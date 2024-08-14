@@ -4,9 +4,11 @@ pylint
 black
 ipython
 numpy
-pandas 
-sklearn 
+pandas
 matplotlib
-seabor
-sklearn
+seaborn
 prophet
+streamlit
+scikit-learn
+matplotlib
+Flask
