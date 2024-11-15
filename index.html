@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Air Quality Index Prediction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 50px; 
+            background-size: cover;
+            color: #000; /* Black text for contrast */
+        }
+        .form-container {
+            max-width: 500px;
+            margin: auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            background-color: rgba(255, 255, 255, 0.8); /* Slightly more opaque for readability */
+        }
+        .form-container label {
+            font-weight: bold;
+        }
+        .form-container input {
+            width: 100%;
+            padding: 10px;
+            margin: 5px 0 20px 0;
+            display: inline-block;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        .form-container input[type="submit"] {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+        }
+        .form-container input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+        .result {
+            font-size: 1.5em;
+            color: #4CAF50;
+            text-align: center;
+            margin-top: 20px;
+        }
+        h2 {
+            text-align: center;
+            font-size: 2em;
+            color: #333;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
+    </style>
+</head>
+<body>
+    <div class="form-container">
+        <h2>Air Quality Index Prediction</h2>
+        <form action="/predict" method="post">
+            <p>'Good': 1, 'Satisfactory': 2, 'Moderate': 3,</p>
+            <p>'Poor': 4, 'Very Poor': 5, 'Severe': 6</p>
+            
+            <label for="PM2.5">PM2.5:</label>
+            <input type="number" step="0.01" name="PM2.5" required>
+            
+            <label for="PM10">PM10:</label>
+            <input type="number" step="0.01" name="PM10" required>
+            
+            <label for="NO2">NO2:</label>
+            <input type="number" step="0.01" name="NO2" required>
+            
+            <label for="CO">CO:</label>
+            <input type="number" step="0.01" name="CO" required>
+                        
+            <label for="O3">O3:</label>
+            <input type="number" step="0.01" name="O3" required>
+            
+            <label for="SO2">SO2:</label>
+            <input type="number" step="0.01" name="SO2" required>
+            
+            <input type="submit" value="Predict">
+        </form>
+        {% if prediction_text %}
+        <div class="result">{{ prediction_text }}</div>
+        {% endif %}
+    </div>
+</body>
+</html>
+
+

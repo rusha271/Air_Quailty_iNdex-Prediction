@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Air Quality Data</title>
+</head>
+<body>
+    <h1>Air Quality Data for {{ coordi_data[0].name }}</h1>
+    <p>Date and Time: {{ date }}</p>
+    <h2>Pollutant Levels</h2>
+    <ul>
+        {% for component, value in components.items() %}
+            <li>{{ component | capitalize }}: {{ value }}</li>
+        {% endfor %}
+    </ul>
+    <a href="/">Back to Home</a>
+</body>
+</html>

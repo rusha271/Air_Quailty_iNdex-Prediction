@@ -1,0 +1,91 @@
+2024-08-17 00:28:07,956 - WARNING -  * Debugger is active!
+2024-08-17 00:28:07,958 - INFO -  * Debugger PIN: 254-505-682
+2024-08-17 00:28:08,064 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\elements\\widgets\\checkbox.py', reloading
+2024-08-17 00:28:08,074 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\elements\\code.py', reloading
+2024-08-17 00:28:08,092 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\elements\\widgets\\color_picker.py', reloading
+2024-08-17 00:28:08,105 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\elements\\empty.py', reloading
+2024-08-17 00:28:08,116 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\elements\\exception.py', reloading
+2024-08-17 00:28:08,134 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\elements\\widgets\\file_uploader.py', reloading
+2024-08-17 00:28:08,153 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\elements\\form.py', reloading
+2024-08-17 00:28:08,171 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\elements\\graphviz_chart.py', reloading
+2024-08-17 00:28:08,195 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\elements\\heading.py', reloading
+2024-08-17 00:28:08,217 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\elements\\doc_string.py', reloading
+2024-08-17 00:28:08,233 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\elements\\html.py', reloading
+2024-08-17 00:28:08,247 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\elements\\iframe.py', reloading
+2024-08-17 00:28:08,271 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\elements\\image.py', reloading
+2024-08-17 00:28:08,306 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\elements\\layouts.py', reloading
+2024-08-17 00:28:08,329 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\elements\\markdown.py', reloading
+2024-08-17 00:28:08,351 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\elements\\map.py', reloading
+2024-08-17 00:28:08,383 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\elements\\media.py', reloading
+2024-08-17 00:28:08,419 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\elements\\metric.py', reloading
+2024-08-17 00:28:08,436 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\elements\\widgets\\multiselect.py', reloading
+2024-08-17 00:28:08,448 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\elements\\widgets\\number_input.py', reloading
+2024-08-17 00:28:08,473 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\elements\\plotly_chart.py', reloading
+2024-08-17 00:28:08,522 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\elements\\progress.py', reloading
+2024-08-17 00:28:08,541 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\elements\\deck_gl_json_chart.py', reloading
+2024-08-17 00:28:08,564 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\elements\\pyplot.py', reloading
+2024-08-17 00:28:08,577 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\elements\\widgets\\radio.py', reloading
+2024-08-17 00:28:08,588 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\elements\\widgets\\selectbox.py', reloading
+2024-08-17 00:28:08,600 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\elements\\widgets\\select_slider.py', reloading
+2024-08-17 00:28:08,621 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\elements\\widgets\\slider.py', reloading
+2024-08-17 00:28:08,639 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\elements\\snow.py', reloading
+2024-08-17 00:28:08,649 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\elements\\json.py', reloading
+2024-08-17 00:28:08,664 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\elements\\text.py', reloading
+2024-08-17 00:28:08,679 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\elements\\widgets\\text_widgets.py', reloading
+2024-08-17 00:28:08,698 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\elements\\widgets\\time_widgets.py', reloading
+2024-08-17 00:28:08,715 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\elements\\toast.py', reloading
+2024-08-17 00:28:08,736 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\elements\\write.py', reloading
+2024-08-17 00:28:08,751 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\elements\\arrow.py', reloading
+2024-08-17 00:28:08,788 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\elements\\vega_charts.py', reloading
+2024-08-17 00:28:08,822 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\elements\\widgets\\data_editor.py', reloading
+2024-08-17 00:28:08,911 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\cursor.py', reloading
+2024-08-17 00:28:08,922 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\proto\\__init__.py', reloading
+2024-08-17 00:28:08,959 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\config.py', reloading
+2024-08-17 00:28:08,989 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\runtime\\metrics_util.py', reloading
+2024-08-17 00:28:09,006 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\logger.py', reloading
+2024-08-17 00:28:09,023 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\type_util.py', reloading
+2024-08-17 00:28:09,049 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\runtime\\state\\__init__.py', reloading
+2024-08-17 00:28:09,068 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\runtime\\state\\common.py', reloading
+2024-08-17 00:28:09,075 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\streamlit\\elements\\spinner.py', reloading
+2024-08-17 00:28:11,183 - WARNING -  * Debugger is active!
+2024-08-17 00:28:11,188 - INFO -  * Debugger PIN: 254-505-682
+2024-08-17 00:28:11,318 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\airquality.py', reloading
+2024-08-17 00:28:11,319 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\airquality.py', reloading
+2024-08-17 00:28:11,319 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\airquality.py', reloading
+2024-08-17 00:28:11,319 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\airquality.py', reloading
+2024-08-17 00:28:11,540 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\airquality.py', reloading
+2024-08-17 00:28:11,544 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\airquality.py', reloading
+2024-08-17 00:28:11,562 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\airquality.py', reloading
+2024-08-17 00:28:11,562 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\airquality.py', reloading
+2024-08-17 00:28:11,754 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\airquality.py', reloading
+2024-08-17 00:28:11,756 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\airquality.py', reloading
+2024-08-17 00:28:11,756 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\airquality.py', reloading
+2024-08-17 00:28:11,758 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\airquality.py', reloading
+2024-08-17 00:28:14,361 - WARNING -  * Debugger is active!
+2024-08-17 00:28:14,367 - INFO -  * Debugger PIN: 254-505-682
+2024-08-17 00:28:21,604 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-17 00:28:21,604 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-17 00:28:21,618 - INFO -  * Restarting with watchdog (windowsapi)
+2024-08-17 00:28:23,437 - WARNING -  * Debugger is active!
+2024-08-17 00:28:23,444 - INFO -  * Debugger PIN: 254-505-682
+2024-08-17 00:28:59,376 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\flask\\__init__.py', reloading
+2024-08-17 00:28:59,379 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\flask\\app.py', reloading
+2024-08-17 00:28:59,403 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\flask\\sansio\\app.py', reloading
+2024-08-17 00:28:59,412 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\flask\\sansio\\scaffold.py', reloading
+2024-08-17 00:28:59,420 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\flask\\globals.py', reloading
+2024-08-17 00:28:59,421 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\flask\\templating.py', reloading
+2024-08-17 00:28:59,426 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\jinja2\\__init__.py', reloading
+2024-08-17 00:28:59,429 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\jinja2\\environment.py', reloading
+2024-08-17 00:28:59,461 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\flask\\typing.py', reloading
+2024-08-17 00:28:59,463 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\werkzeug\\sansio\\response.py', reloading
+2024-08-17 00:28:59,473 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\werkzeug\\datastructures\\__init__.py', reloading
+2024-08-17 00:28:59,496 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\flask\\wrappers.py', reloading
+2024-08-17 00:28:59,499 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\werkzeug\\wrappers\\__init__.py', reloading
+2024-08-17 00:28:59,499 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\werkzeug\\wrappers\\request.py', reloading
+2024-08-17 00:28:59,507 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\werkzeug\\sansio\\request.py', reloading
+2024-08-17 00:28:59,513 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\werkzeug\\utils.py', reloading
+2024-08-17 00:28:59,522 - INFO -  * Detected change in 'C:\\Users\\rushabh nakum\\Desktop\\Minor Project 7 sem\\myenv\\Lib\\site-packages\\werkzeug\\_internal.py', reloading
+2024-08-17 00:29:00,139 - INFO -  * Restarting with watchdog (windowsapi)
+2024-08-17 00:29:01,895 - WARNING -  * Debugger is active!
+2024-08-17 00:29:01,901 - INFO -  * Debugger PIN: 254-505-682

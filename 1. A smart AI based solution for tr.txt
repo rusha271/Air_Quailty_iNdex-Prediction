@@ -1,0 +1,15 @@
+1. A smart AI based solution for traffic management on routes with heavy traffic from different directions, with real-time monitoring and adaptation of traffic light timings
+2. Learning App for Deaf And Mute and sign language-English/Gujarati converter
+3. Dynamic route rationalization model based on machine learning/AI would be required based on real-time traffic and road parameters.
+4. To develop an Artificial Intelligence (AI) based model for electricity demand projection including peak demand projection for Delhi Power system
+5. Development of AI-ML based models for predicting prices of Agri-horticultural commodities such as pulses and vegetable (onion, potato, onion)
+6. AI tool/mobile app for Indian Sign language(ISL) generator from audio-visual content in English/Hindi to ISL content and vice-versa
+7. Indian Sing Language to Text/Speech translation
+
+
+
+
+
+Indian Sing Language to Text/Speech translation
+Learning App for Deaf And Mute and sign language-English/Gujarati converter
+AI tool/mobile app for Indian Sign language(ISL) generator from audio-visual content in English/Hindi to ISL content and vice-versa
